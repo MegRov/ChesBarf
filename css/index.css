@@ -1,7 +1,7 @@
 body{
     margin :0;
     min-height: 100vh;
-    background-image: url(https://st2.depositphotos.com/1008280/9297/i/950/depositphotos_92975866-stock-photo-cute-pug-wrapped-in-blanket.jpg);
+    background-image: url("https://st2.depositphotos.com/1008280/9297/i/950/depositphotos_92975866-stock-photo-cute-pug-wrapped-in-blanket.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
